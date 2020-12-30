@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://elegant-elion-347873.netlify.app"
 languageCode = "en-us"
 title = "LOLCODE Documentation"
 theme = "book"
